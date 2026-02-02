@@ -11,7 +11,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/gorakhargosh/watchdog"
-    version: "300ae8b26e08af952dc8ef1791e801e750428743"
+    version: "2b628306d5983f96cfec1ab46f4205b2f6208d92"
     closest_version: "v5.0.2"
     primary_source: true
   }
